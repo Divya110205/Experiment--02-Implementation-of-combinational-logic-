@@ -83,5 +83,7 @@ RegisterNumber: 212222230034
 ![f2](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/ef80b7d8-e5d5-4b72-998f-1c62bba2d807)
 
 ##Truth Table
+![tt](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/2992336b-e9b1-4be4-b11c-2fe9db388021)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
