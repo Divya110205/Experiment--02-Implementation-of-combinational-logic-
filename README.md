@@ -18,7 +18,9 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 
 ## Procedure
-Step 1: Create a project with required entities.
+Step 1: 
+
+Create a project with required entities.
 
 Step 2:
 
@@ -67,22 +69,22 @@ Developed by: A.DIVYA
 RegisterNumber: 212222230034 
 */
 ## RTL realization
-##F1
-![Screenshot (55)](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/f70c350d-4c5f-41e6-b721-3f47ec006a72)
+## F1
+![f1 rtl](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/029331d5-e82d-4b3e-9c0a-58de6af1fb76)
 
-##F2
-![Screenshot (54)](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/aa6be979-4924-414a-a346-cad4a5dd432d)
+## F2
+![f2 rtl](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/d618a026-b3bc-4445-ae04-9e1e55f13bbc)
 
 ## Output:
 
 ## Timing Diagram
-##F1
-![f1](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/333c0125-6369-47db-bd59-647e485dfa82)
+## F1
+![f1 td](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/dfc3ae1f-ab5a-4dd5-a447-fa5fd1b2267e)
 
-##F2 
-![f2](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/ef80b7d8-e5d5-4b72-998f-1c62bba2d807)
+## F2 
+![f2 td](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/8938c25f-0a89-431d-9c47-ee1053e17ea1)
 
-##Truth Table
+## Truth Table
 ![tt](https://github.com/Divya110205/Experiment--02-Implementation-of-combinational-logic-/assets/119404855/2992336b-e9b1-4be4-b11c-2fe9db388021)
 
 ## Result:
